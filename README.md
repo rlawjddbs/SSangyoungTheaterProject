@@ -9,17 +9,20 @@
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/common/slicer.png)
 
 
-### 시연 자료1 (관리자 회원 관리)
+### 시연 자료
+
+#### 관리자 회원 관리 - 회원정보 수정, 회원탈퇴 처리
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_member_manager1.gif)
 
 
-### 시연 자료2 (관리자 스낵 관리 - 메뉴 추가)
+#### 관리자 스낵 관리 - 메뉴 추가
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_snack_manager1.gif)
 
-
-### 시연 자료3 (관리자 스낵 관리 - 현장 결제)
+#### 관리자 스낵 관리 - 현장 결제
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_snack_manager2.gif)
 
+#### 관리자 스낵 관리 - 메뉴 삭제
+![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_snack_manager3.gif)
 
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/common/slicer.png)
 
