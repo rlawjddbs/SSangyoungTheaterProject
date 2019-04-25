@@ -9,7 +9,10 @@
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/common/slicer.png)
 
 ### 시연 자료1 (관리자 - 회원 관리)
-![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_member_manager.gif)
+![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_member_manager1.gif)
+
+### 시연 자료2 (관리자 - 스낵 관리)
+![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_snack_manager1.gif)
 
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/common/slicer.png)
 
