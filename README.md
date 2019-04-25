@@ -11,7 +11,7 @@
 
 ### 시연 자료
 
-#### 관리자 회원 관리 - 회원정보 수정, 회원탈퇴 처리
+#### 관리자 회원 관리 - 회원 정보 수정, 회원 탈퇴 처리, 회원 아이디 검색
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_member_manager1.gif)
 
 
