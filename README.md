@@ -1,5 +1,19 @@
 # SSangyoungTheaterProject
-### 극장 영화예매 프로젝트
+### 극장 영화 예매 프로그램
+
+### 담당 업무
+- 애플리케이션 UI 디자인
+- 관리자의 회원 정보 조회, 회원 정보 수정, 회원 탈퇴 처리를 위한 회원관리 기능 작성
+- 관리자의 스낵 정보 조회, 메뉴 추가, 메뉴 삭제, 현장 결제 처리를 위한 스낵관리 기능 작성
+
+![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/common/slicer.png)
+
+## 시연 자료
+![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_member_manager.gif)
+
+![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/common/slicer.png)
+
+## PPT
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/ppt/1.jpg)
 
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/ppt/3.jpg)
@@ -48,7 +62,6 @@
 
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/ppt/59.jpg)
 
-![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/common/slicer.png)
 
-## 시연 자료
-![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_member_manager.gif)
+
+
