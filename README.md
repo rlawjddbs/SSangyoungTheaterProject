@@ -8,12 +8,12 @@
 
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/common/slicer.png)
 
-## 시연 자료
+### 시연 자료
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_member_manager.gif)
 
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/common/slicer.png)
 
-## PPT
+### PPT
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/ppt/1.jpg)
 
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/ppt/3.jpg)
