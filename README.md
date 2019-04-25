@@ -14,6 +14,9 @@
 ### 시연 자료2 (관리자 스낵 관리 - 메뉴 추가)
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_snack_manager1.gif)
 
+### 시연 자료3 (관리자 스낵 관리 - 현장 결제)
+![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/admin_snack_manager2.gif)
+
 ![](https://github.com/rlawjddbs/SSangyoungTheaterProject/blob/master/readme_resource/common/slicer.png)
 
 ### PPT
